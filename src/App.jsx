@@ -4,6 +4,7 @@ import Accueil from "./pages/accueil"
 import Contacts from "./pages/contact"
 import About from "./pages/about"
 import Catalogue from "./pages/catalogue"
+import Error404 from "./pages/404"
 
 
 
@@ -18,6 +19,8 @@ function App() {
         <Route path="/catalogue" element={< Catalogue/>} />
         <Route path="/about" element={< About/>} />
         <Route path="/contact" element={< Contacts/>} />
+        <Route path="*" element={< Error404/>} />
+
 
     </Routes>
     </>

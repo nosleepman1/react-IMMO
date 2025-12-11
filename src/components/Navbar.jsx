@@ -1,7 +1,7 @@
-import { useState } from "react"
+//import { useState } from "react"
 import {Link} from 'react-router-dom'
 const Navbar = () => {
-    const [open, setOpen] = useState(false)
+    //const [open, setOpen] = useState(false)
 
     const Menu = [
         {name: 'accueil', path: '/'}, {name: 'Catalogue', path: '/catalogue'}, {name: 'A propos', path: '/about'}, {name: 'Contact', path: '/contact'}
