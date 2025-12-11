@@ -1,7 +1,14 @@
 //import { useState } from "react"
-import {Link} from 'react-router-dom'
+import {Link, useNavigate} from 'react-router-dom'
 const Navbar = () => {
     //const [open, setOpen] = useState(false)
+
+    const navigate = useNavigate()
+
+    function handleClick() {
+        navigate('/login')
+    }
+
 
     const Menu = [
         {name: 'accueil', path: '/'}, {name: 'Catalogue', path: '/catalogue'}, {name: 'A propos', path: '/about'}, {name: 'Contact', path: '/contact'}
@@ -26,7 +33,7 @@ const Navbar = () => {
                 </div>
 
                 
-                <button className="cursor-pointer px-8 py-2 bg-indigo-500 hover:bg-indigo-600 transition text-white rounded-full">
+                <button onClick={handleClick} className="cursor-pointer px-8 py-2 bg-indigo-500 hover:bg-indigo-600 transition text-white rounded-full">
                     Login
                 </button>
             </div>

@@ -5,6 +5,7 @@ import Contacts from "./pages/contact"
 import About from "./pages/about"
 import Catalogue from "./pages/catalogue"
 import Error404 from "./pages/404"
+import Login from "./pages/auth/auth"
 
 
 
@@ -19,6 +20,7 @@ function App() {
         <Route path="/catalogue" element={< Catalogue/>} />
         <Route path="/about" element={< About/>} />
         <Route path="/contact" element={< Contacts/>} />
+        <Route path="/login" element={< Login/>} />
         <Route path="*" element={< Error404/>} />
 
 

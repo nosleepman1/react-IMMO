@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "image": "https://m.media-amazon.com/images/I/41Kj3Oz-ZXS.jpg",
+    "title": "Apple AirTags (4‑Pack)",
+    "rating": 5,
+    "price": 99.99
+  },
+  {
+    "id": 2,
+    "image": "https://m.media-amazon.com/images/I/61sYz8z0P-L._AC_SL1500_.jpg",
+    "title": "Instant Pot Duo 7‑in‑1 Electric Pressure Cooker",
+    "rating": 4,
+    "price": 89.95
+  },
+  {
+    "id": 3,
+    "image": "https://m.media-amazon.com/images/I/81O%2B2YFzFVL._AC_SL1500_.jpg",
+    "title": "Echo Dot (5th Gen) Smart Speaker",
+    "rating": 4,
+    "price": 49.99
+  },
+  {
+    "id": 4,
+    "image": "https://m.media-amazon.com/images/I/71Swggmh2FL._AC_SL1500_.jpg",
+    "title": "Fitbit Charge 5 Fitness Tracker",
+    "rating": 4,
+    "price": 129.95
+  },
+  {
+    "id": 5,
+    "image": "https://m.media-amazon.com/images/I/71VJiyanHSL._AC_SL1500_.jpg",
+    "title": "YETI Rambler 20 oz Tumbler",
+    "rating": 5,
+    "price": 34.99
+  },
+  {
+    "id": 6,
+    "image": "https://m.media-amazon.com/images/I/71msAyjv1ML._AC_SL1500_.jpg",
+    "title": "Keurig K‑Classic Coffee Maker",
+    "rating": 3,
+    "price": 79.99
+  },
+  {
+    "id": 7,
+    "image": "https://m.media-amazon.com/images/I/61M0QimZfVL._AC_SL1500_.jpg",
+    "title": "Bissell Little Green Portable Cleaner",
+    "rating": 4,
+    "price": 99.00
+  },
+  {
+    "id": 8,
+    "image": "https://m.media-amazon.com/images/I/51hR1EDKQGL._AC_SL1000_.jpg",
+    "title": "CeraVe Moisturizing Cream",
+    "rating": 5,
+    "price": 18.99
+  },
+  {
+    "id": 9,
+    "image": "https://m.media-amazon.com/images/I/61zW6L4u0pL._AC_SL1200_.jpg",
+    "title": "Apple AirPods Pro (2nd Gen)",
+    "rating": 5,
+    "price": 249.00
+  },
+  {
+    "id": 10,
+    "image": "https://m.media-amazon.com/images/I/71E1COX1SlL._AC_SL1500_.jpg",
+    "title": "Robot Vacuum Cleaner",
+    "rating": 4,
+    "price": 159.99
+  },
+  {
+    "id": 11,
+    "image": "https://m.media-amazon.com/images/I/81y3ZYtSwdL._AC_SL1500_.jpg",
+    "title": "Le Creuset Enameled Cast Iron Dutch Oven",
+    "rating": 5,
+    "price": 319.95
+  },
+  {
+    "id": 12,
+    "image": "https://m.media-amazon.com/images/I/61UybheP4VL._AC_SL1500_.jpg",
+    "title": "Samsung Galaxy Buds Live",
+    "rating": 4,
+    "price": 129.99
+  },
+  {
+    "id": 13,
+    "image": "https://m.media-amazon.com/images/I/71w1BpUOYHL._AC_SL1500_.jpg",
+    "title": "Owala FreeSip Stainless Steel Water Bottle",
+    "rating": 5,
+    "price": 28.99
+  },
+  {
+    "id": 14,
+    "image": "https://m.media-amazon.com/images/I/61x7b0ULi8L._AC_SL1000_.jpg",
+    "title": "Kids Instant Print Camera",
+    "rating": 4,
+    "price": 59.99
+  },
+  {
+    "id": 15,
+    "image": "https://m.media-amazon.com/images/I/81oTNZ6TtPL._AC_SL1500_.jpg",
+    "title": "Portable Bluetooth Speaker",
+    "rating": 4,
+    "price": 39.99
+  },
+  {
+    "id": 16,
+    "image": "https://m.media-amazon.com/images/I/61RAvqDEU-L._AC_SL1500_.jpg",
+    "title": "Air Purifier for Home",
+    "rating": 4,
+    "price": 129.99
+  },
+  {
+    "id": 17,
+    "image": "https://m.media-amazon.com/images/I/71yR4uq6hgL._AC_SL1500_.jpg",
+    "title": "Bluetooth Headphones Over‑Ear",
+    "rating": 3,
+    "price": 59.99
+  },
+  {
+    "id": 18,
+    "image": "https://m.media-amazon.com/images/I/61zF4d3XzBL._AC_SL1500_.jpg",
+    "title": "Dog Water Fountain",
+    "rating": 5,
+    "price": 49.99
+  },
+  {
+    "id": 19,
+    "image": "https://m.media-amazon.com/images/I/71O‑2IgYDSL._AC_SL1500_.jpg",
+    "title": "Yoga Mat with Carrying Strap",
+    "rating": 4,
+    "price": 29.99
+  },
+  {
+    "id": 20,
+    "image": "https://m.media-amazon.com/images/I/71Y6rzx7DvL._AC_SL1500_.jpg",
+    "title": "Premium Throw Blanket",
+    "rating": 5,
+    "price": 39.99
+  }
+]
