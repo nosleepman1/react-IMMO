@@ -3,7 +3,7 @@ const Card = ({image, title, price}) => {
 
     return (
 
-            <div className="w-75 max-w-sm bg-neutral-primary-soft p-6 border border-default rounded-base shadow-xs">
+            <div className="w-75 max-w-sm bg-[#1c2229] p-6 border border-default rounded-base shadow-xs">
                 <a href="#">
                     <img className="rounded-base mb-6" src={image}  alt={title} />
                 </a>
@@ -12,11 +12,13 @@ const Card = ({image, title, price}) => {
                         
 
                          <div className="flex items-center space-x-1">
-                               {/**rating systemmmheerrreeee */}
+                               {/**rating systemmm heerrreeee */}
                           </div>
 
                         
                     </div>
+
+
                     <a href="#">
                         <h5 className="text-xl text-heading font-semibold tracking-tight"> {title} </h5>
                     </a>
