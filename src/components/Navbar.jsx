@@ -9,6 +9,10 @@ const Navbar = () => {
         navigate('/login')
     }
 
+    const activeFunction = () => {
+        
+    }
+
 
     const Menu = [
         {name: 'accueil', path: '/'}, {name: 'Catalogue', path: '/catalogue'}, {name: 'A propos', path: '/about'}, {name: 'Contact', path: '/contact'}
@@ -24,7 +28,7 @@ const Navbar = () => {
                
                 {
                     Menu.map((e, i) => (
-                        <Link key={i} to={e.path}> {e.name} </Link>
+                        <Link key={i} to={e.path} onClick={activeFunction} id={e.name}> {e.name} </Link>
                     ))
                 }
 
@@ -38,7 +42,7 @@ const Navbar = () => {
                 </button>
             </div>
 
-            {/* <button onClick={() => open ? setOpen(false) : setOpen(true)} aria-label="Menu" className="sm:hidden">
+        {/* <button onClick={() => open ? setOpen(false) : setOpen(true)} aria-label="Menu" className="sm:hidden">
 
                 <svg width="21" height="15" viewBox="0 0 21 15" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <rect width="21" height="1.5" rx=".75" fill="#426287" />
