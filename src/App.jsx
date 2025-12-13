@@ -8,10 +8,7 @@ import Error404 from "./pages/404"
 import Login from "./pages/auth/auth"
 
 
-
 function App() {
-
-
   return (
     <>
       < Navbar />
@@ -22,7 +19,6 @@ function App() {
         <Route path="/contact" element={< Contacts/>} />
         <Route path="/login" element={< Login/>} />
         <Route path="*" element={< Error404/>} />
-
 
     </Routes>
     </>
